@@ -10,7 +10,7 @@ namespace console1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hej på er");
+            Console.WriteLine("hej på er alla");
         }
     }
 }
